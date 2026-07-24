@@ -78,7 +78,7 @@ Breast Cancer Wisconsin Dataset
 
 
 
-!\[Confusion Matrix](images/confusion\_matrix.png)
+!\[Confusion Matrix](Images/confusion\_matrix.png)
 
 
 
@@ -86,7 +86,7 @@ Breast Cancer Wisconsin Dataset
 
 
 
-!\[ROC Curve](images/roc\_curve.png)
+!\[ROC Curve](Images/roc\_curve.png)
 
 
 
