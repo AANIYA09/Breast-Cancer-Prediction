@@ -86,7 +86,7 @@ Breast Cancer Wisconsin Dataset
 
 
 
-!\[ROC Curve](Images/ROC%20CURVE.png)
+!\[ROC Curve](Images/roc\_curve.png)
 
 
 
